@@ -4,6 +4,9 @@
 
 ![homepage](https://github.com/Divyansh72144/carimo/assets/91049526/d1fb4c91-081a-4237-9508-1e5bb1ded88c)
 
+![kuva](https://github.com/Divyansh72144/carimo/assets/91049526/47eb684d-d186-4405-8f01-508b931502d6)
+
+![kuva](https://github.com/Divyansh72144/carimo/assets/91049526/a876c705-4320-49a4-a487-ad53dc8695d6)
 
 This application empowers you to browse a comprehensive collection of vehicles, make convenient reservations, and manage your rentals effortlessly.
 
