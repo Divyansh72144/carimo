@@ -20,3 +20,11 @@ This application empowers you to browse a comprehensive collection of vehicles, 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Divyansh72144/carimo.git
+
+2. **Download necessary libraries:**
+   ```bash
+   npm i --force
+
+3. **Start the project:**
+   ```bash
+   npm run start
