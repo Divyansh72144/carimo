@@ -2,7 +2,8 @@
 
 **Welcome to your one-stop shop for seamless car rentals!**
 
-[![Image of a car driving on a scenic road]](REPLACE_WITH_IMAGE_PATH)
+![homepage](https://github.com/Divyansh72144/carimo/assets/91049526/d1fb4c91-081a-4237-9508-1e5bb1ded88c)
+
 
 This application empowers you to browse a comprehensive collection of vehicles, make convenient reservations, and manage your rentals effortlessly.
 
@@ -18,4 +19,4 @@ This application empowers you to browse a comprehensive collection of vehicles, 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/car-rental-app.git
+   git clone https://github.com/Divyansh72144/carimo.git
